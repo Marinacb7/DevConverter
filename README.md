@@ -1,19 +1,17 @@
-# Conversor de Moedas (Real para Dólar e Euro)
+# DevConverter (Real para Dólar e Euro)
 
-Este é um projeto de conversor de moedas desenvolvido como parte do curso de HTML5, CSS3 e JavaScript da plataforma Udemy. O conversor permite converter valores de real brasileiro (BRL) para dólar americano (USD) e euro (EUR).
+Este é um projeto de conversor de moedas desenvolvido como parte do curso de HTML5, CSS3 e JavaScript na prática da plataforma Udemy. O conversor permite converter valores de real brasileiro (BRL) para dólar americano (USD) e euro (EUR). A plataforma desenvolvida é de simples manuseio, porém, pretendo melhorar o funcionamento futuramente, ligando a um API que acompanha o mudança das moedas em tempo real.
 
 ## Funcionalidades
 
 - Conversão de Real (BRL) para Dólar (USD) e Euro (EUR).
-- Taxas de conversão atualizadas automaticamente por meio de uma API externa.
 - Interface simples e intuitiva para inserir o valor a ser convertido.
 
 ## Tecnologias Utilizadas
 
 - HTML5: Estruturação da página e elementos básicos.
 - CSS3: Estilização e layout responsivo.
-- JavaScript: Lógica de conversão e interação com a API.
-- API Externa: Utilização de uma API de câmbio para obter as taxas de conversão atualizadas.
+- JavaScript: Lógica de conversão.
 
 ## Como Usar
 
@@ -25,7 +23,15 @@ Este é um projeto de conversor de moedas desenvolvido como parte do curso de HT
 
 ## Screenshots
 
-![Screenshot do Conversor de Moedas](link_para_screenshot)
+![Página Inicial](/assets/home.png)
+![Euro](/assets/euro.png)
+![Dólar](/assets/dolar.png)
+
+## Integrações futuras
+
+- API Externa: Utilização de uma API de câmbio para obter as taxas de conversão atualizadas.
+- Botão para zerar as informações na tela.
+- Adição de mais moedas mundiais.
 
 ## Contribuindo
 
@@ -33,4 +39,4 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir um pull request 
 
 ## Licença
 
-Este projeto está licenciado sob a [Licença MIT](link_para_licenca).
+Este projeto está licenciado sob a [Licença MIT](/LICENSE).
